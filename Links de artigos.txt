@@ -1,0 +1,6 @@
+Links de artigos:
+
+https://www.alura.com.br/artigos/nomes-de-classes-no-css
+https://www.alura.com.br/artigos/qual-diferenca-entre-id-e-class
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout
